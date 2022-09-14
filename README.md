@@ -1,5 +1,8 @@
 # Hi there 👋
 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<a href="https://blog.naver.com/issue890sk"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
 <!--
 **qkrtjdals1/qkrtjdals1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
